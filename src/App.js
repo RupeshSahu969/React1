@@ -1,5 +1,5 @@
 import logo from './logo.svg';
-import './App.css';
+import './Style.css';
 
 import Hello from "./component/hello";
 
@@ -8,7 +8,7 @@ function App() {
  
  
   return (
-    <div className="">
+    <div className="Style">
     
       <Hello></Hello>
       
